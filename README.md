@@ -9,9 +9,16 @@ The datasets are hosted on Google Cloud, which requires a Gmail account to manag
 1. Create a [Gmail account](https://www.google.com/gmail/about/), if you don't already have one. It will be used to manage your access to the resources.
 2. Give your gmail address to the session hosts.
 
+## Documentation
+
+- MIMIC-III Clinical Database: https://mimic.physionet.org/
+- eICU Collaborative Research Database: https://eicu-crd.mit.edu/
+
 ## Databases on BigQuery
 
 BigQuery is a database system that makes it easy to explore data with Structured Query Language ("SQL"). There are several datasets on BigQuery available for you to explore, including `eicu_crd` (the eICU Collaborative Research Database) and `mimiciii_clinical` (the MIMIC-III Clinical Database).
+
+You will also find "derived" databases, which include tables derived from the original data using the code in the [eICU](https://github.com/MIT-LCP/eicu-code) and [MIMIC](https://github.com/MIT-LCP/mimic-code) code repositories. These are helpful if you are looking for something like a sepsis cohort or first day vital signs.
 
 1. [Open BigQuery](https://console.cloud.google.com/bigquery?project=hack-aotearoa).
 2. At the top of the console, select `hack-aotearoa` as the project. This indicates the account used for billing.
