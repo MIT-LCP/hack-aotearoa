@@ -14,6 +14,43 @@ The datasets are hosted on Google Cloud, which requires a Gmail account to manag
 - MIMIC-III Clinical Database: https://mimic.physionet.org/
 - eICU Collaborative Research Database: https://eicu-crd.mit.edu/
 
+## Sample projects
+
+These papers and repositories may be helpful for reference. They are **not** perfect! Code may be untidy, poorly documented, buggy, outdated etc. Think about how they can be improved, adapted, etc. For example, you could:
+
+- replicate the study on a different dataset (e.g. MIMIC vs eICU)
+- improve the methodology
+
+1. The association between mortality among patients admitted to the intensive care unit on a weekend compared to a weekday
+
+- Python Notebook: https://github.com/MIT-LCP/bhi-bsn-challenge/blob/master/challenge-demo.ipynb
+- R Markdown Notebook: https://github.com/MIT-LCP/bhi-bsn-challenge/blob/master/rmarkdown_example_notebook.Rmd
+- More reading: https://physionet.org/content/bhi-2018-challenge/1.0/
+
+2. Predicting in-hospital mortality of intensive care patients using decision trees.
+
+- Python Notebook: https://github.com/MIT-LCP/2019_aarhus_critical_data/blob/master/tutorials/eicu/05-prediction.ipynb 
+
+3. Comparison of methods for identifying patients with sepsis.
+
+- Code: https://github.com/alistairewj/sepsis3-mimic
+- Paper: https://www.ncbi.nlm.nih.gov/pubmed/29303796
+
+4. Evaluating the reproducibility of mortality prediction studies that use the MIMIC-III database. 
+
+- Code: https://github.com/alistairewj/reproducibility-mimic/blob/master/notebooks/reproducibility.ipynb
+- Paper: http://proceedings.mlr.press/v68/johnson17a.html
+
+5. The AI Clinician
+
+- Code: https://github.com/matthieukomorowski/AI_Clinician
+- Paper: https://www.nature.com/articles/s41591-018-0213-5
+
+6. Association of hypokalemia with an increased risk for medically treated arrhythmia
+
+- Code: https://github.com/nus-mornin-lab/PotassiumAA
+- Paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217432
+
 ## Databases on BigQuery
 
 BigQuery is a database system that makes it easy to explore data with Structured Query Language ("SQL"). There are several datasets on BigQuery available for you to explore, including `eicu_crd` (the eICU Collaborative Research Database) and `mimiciii_clinical` (the MIMIC-III Clinical Database).
