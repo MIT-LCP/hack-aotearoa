@@ -99,7 +99,7 @@ These papers and repositories may be helpful for reference. They are **not** per
 - Code: https://github.com/alistairewj/reproducibility-mimic/blob/master/notebooks/reproducibility.ipynb
 - Paper: http://proceedings.mlr.press/v68/johnson17a.html
 
-5. The AI Clinician
+5. Optimising treatment of sepsis with reinforcement learning
 
 - Code: https://github.com/matthieukomorowski/AI_Clinician
 - Paper: https://www.nature.com/articles/s41591-018-0213-5
