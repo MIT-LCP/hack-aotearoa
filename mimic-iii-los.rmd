@@ -17,7 +17,7 @@ library("bigrquery")
 
 ```{r dbconnect, include=FALSE}
 # Load configuration settings
-project_id <- "philips-eicu-meeting-2019"
+project_id <- "hack-aotearoa"
 options(httr_oauth_cache=TRUE)
 run_query <- function(query){
     data <- query_exec(query, project=project_id, use_legacy_sql = FALSE)
