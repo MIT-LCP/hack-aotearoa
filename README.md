@@ -52,19 +52,21 @@ Python is an increasingly popular programming language for analysing data. We wi
 
 Several tutorials are provided below. Requirements for these notebooks are: (1) you have a Gmail account and (2) your Gmail address has been added to the appropriate Google Group by the workshop hosts.
 
-Notebook 1: Exploring the patient table. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/01_explore_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Notebook 1 (eICU): Exploring the patient table. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/01_explore_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 2: Severity of illness. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/02_severity_of_illness.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Notebook 2 (eICU): Severity of illness. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/02_severity_of_illness.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 3: Summary statistics. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/03_summary_statistics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Notebook 3 (eICU): Summary statistics. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/03_summary_statistics.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 4: Timeseries. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/04_timeseries.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Notebook 4 (eICU): Timeseries. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/04_timeseries.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 5: Mortality prediction. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/05_mortality_prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Notebook 5 (eICU): Mortality prediction. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/05_mortality_prediction.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 6: Acute kidney injury. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/06_aki_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Notebook 6 (eICU): Acute kidney injury. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/06_aki_project.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 7: Project work. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/07_project_work.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Notebook 7 (eICU): Project work. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/07_project_work.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Notebook 8 (eICU): Weekend effect on mortality. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/mimic-weekend-effect.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## 6. An example in R
 
