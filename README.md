@@ -1,6 +1,6 @@
-# Hack Aotearoa 2020 (17-19 January)
+# Hack Aotearoa 2023 (March 17th to March 19th 2023)
 
-This repository contains resources for [Hack Aotearoa 2020](http://hackaotearoa.co.nz/).
+This repository contains resources for [Hack Aotearoa 2023](http://hackaotearoa.nz)
 
 ## Contents
 
