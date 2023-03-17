@@ -11,6 +11,7 @@ This repository contains resources for [Hack Aotearoa 2023](http://hackaotearoa.
 5. Python notebooks that we prepared earlier
 6. An example in R
 7. Sample projects
+8. Miscellaneous resources!
 
 
 ## 1. Getting started
@@ -114,3 +115,9 @@ These papers and repositories may be helpful for reference. They are **not** per
 
 - Code: https://github.com/nus-mornin-lab/PotassiumAA
 - Paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0217432
+
+## 8. Resources
+
+- Tutorial on decision trees for mortality prediction: https://carpentries-incubator.github.io/machine-learning-trees-python/
+- Tutorial on responsible machine learning: https://carpentries-incubator.github.io/machine-learning-responsible-python/
+
