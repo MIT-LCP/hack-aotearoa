@@ -22,7 +22,7 @@ The datasets are hosted on Google Cloud, which requires a Gmail account to manag
 
 ## 2. Documentation
 
-- MIMIC-III Clinical Database: https://mimic.physionet.org/
+- MIMIC Clinical Database: https://mimic.physionet.org/
 - eICU Collaborative Research Database: https://eicu-crd.mit.edu/
 
 ## 3. Databases on BigQuery
