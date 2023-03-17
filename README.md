@@ -18,7 +18,7 @@ This repository contains resources for [Hack Aotearoa 2023](http://hackaotearoa.
 The datasets are hosted on Google Cloud, which requires a Gmail account to manage permissions.
 
 1. Create a [Gmail account](https://www.google.com/gmail/about/), if you don't already have one. It will be used to manage your access to the resources.
-2. Give your gmail address to the session hosts.
+2. Complete the form at: https://uoaevents.eventsair.com/hack-aotearoa-2023/dua2023/Site/Register.
 
 ## 2. Documentation
 
