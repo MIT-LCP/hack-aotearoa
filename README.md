@@ -31,7 +31,7 @@ BigQuery is a database system that makes it easy to explore data with Structured
 
 You will also find "derived" databases, which include tables derived from the original data using the code in the [eICU](https://github.com/MIT-LCP/eicu-code) and [MIMIC](https://github.com/MIT-LCP/mimic-code) code repositories. These are helpful if you are looking for something like a sepsis cohort or first day vital signs.
 
-1. [Open BigQuery](https://console.cloud.google.com/bigquery?project=hack-aotearoa).
+1. [Open BigQuery](https://console.cloud.google.com/bigquery?project=physionet-data).
 2. At the top of the console, select `hack-aotearoa` as the project. This indicates the account used for billing.
 3. "Pin" a project to the resources menu to view available datasets. In the Resources menu on the left, click "Add data", "Pin a project", then add the following project names: `physionet-data` and `hack-aotearoa`.
 4. You should be able preview the data available on these projects using the graphical interface.
