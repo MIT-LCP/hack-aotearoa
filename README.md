@@ -33,9 +33,9 @@ You will also find "derived" databases, which include tables derived from the or
 
 1. [Open BigQuery](https://console.cloud.google.com/bigquery?project=physionet-data).
 2. At the top of the console, select `hack-aotearoa` as the project. This indicates the account used for billing.
-3. "Pin" a project to the resources menu to view available datasets. In the Resources menu on the left, click "Add data", "Pin a project", then add the following project names: `physionet-data` and `hack-aotearoa`.
-4. You should be able preview the data available on these projects using the graphical interface.
-5. Now try running a query. For example, try counting the number of rows in the demo eICU patient table:
+<!-- 3. "Pin" a project to the resources menu to view available datasets. In the Resources menu on the left, click "Add data", "Pin a project", then add the following project names: `physionet-data` and `hack-aotearoa`. -->
+3. You should be able preview the data available on these projects using the graphical interface.
+4. Now try running a query. For example, try counting the number of rows in the demo eICU patient table:
 
    ```SQL
    SELECT count(*)
