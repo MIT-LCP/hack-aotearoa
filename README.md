@@ -66,7 +66,11 @@ Notebook 6 (eICU): Acute kidney injury. <a href="https://colab.research.google.c
 
 Notebook 7 (eICU): Project work. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/07_project_work.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
-Notebook 8 (MIMIC): Weekend effect on mortality. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/mimic-weekend-effect.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+Notebook 8 (MIMIC): MIMIC-III tutorial. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/mimic-iii-tutorial.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Notebook 9 (MIMIC): Weekend effect on mortality. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/mimic-weekend-effect.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
+
+Notebook 10 (MIMIC): Mortality in septic patients. <a href="https://colab.research.google.com/github/MIT-LCP/hack-aotearoa/blob/master/mortality_in_septic_patients.ipynb" target="_parent"><img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/></a>
 
 ## 6. An example in R
 
