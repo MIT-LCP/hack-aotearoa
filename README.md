@@ -25,6 +25,7 @@ The datasets are hosted on Google Cloud, which requires a Gmail account to manag
 
 - MIMIC Clinical Database: https://mimic.physionet.org/
 - eICU Collaborative Research Database: https://eicu-crd.mit.edu/
+- MIMIC Code Repository: https://github.com/MIT-LCP/mimic-code (code for reuse!)
 
 ## 3. Databases on BigQuery
 
